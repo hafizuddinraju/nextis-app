@@ -1,0 +1,20 @@
+.signup{
+    background-color: #1678CB;
+    border: none;
+}
+.signup:hover{
+   
+background-color: white;
+border: 1px solid #1678CB;
+color: #1678CB;
+}
+.card-hight{
+    height: 600px;
+    
+}
+.back{
+    background-color: white;
+border: 1px solid #1678CB;
+color: #1678CB;
+
+}

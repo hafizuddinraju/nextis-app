@@ -1,0 +1,20 @@
+.login{
+    background-color: #1678CB;
+    border: none;
+}
+.login:hover{
+    background-color: white;
+    border: 1px solid #1678CB;
+    color: #1678CB;
+}
+.card-hight{
+    height: 500px;
+    
+}
+.text-color{
+    color: #1678CB;
+}
+.account{
+    font-size: 12px;
+    color: grey;
+}
